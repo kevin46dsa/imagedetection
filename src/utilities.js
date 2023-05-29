@@ -4,7 +4,7 @@ export const drawReact = (detections, ctx) =>{
      
       // Extract boxes and classes
       const [x, y, width, height] = prediction['bbox']; 
-      const text = prediction['class']; 
+      const text = `${prediction['class']} - ${prediction['score'].toFixed(2)}%`; 
   
       // Set styling
       //const color = Math.floor(Math.random()*16777215).toString(16);
@@ -16,6 +16,7 @@ export const drawReact = (detections, ctx) =>{
       ctx.beginPath();   
       ctx.fillStyle = '#' + color
       ctx.fillText(text, x, y);
+
       ctx.rect(x, y, width, height); 
       ctx.stroke();
     });
