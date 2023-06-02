@@ -86,19 +86,6 @@ Project Link: [https://github.com/kevin46dsa/RentPipe](https://github.com/kevin4
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Id Like to thank [React & Next js Projects with Sahand](https://www.youtube.com/@reactproject) for the amazing tutorial video of Realtor Clone, links mentioned below
-* [Realtor Clone: Part 1](https://www.youtube.com/watch?v=b0_Y_eU_SXI&t=0s) 
-* [Realtor Clone: Part 2](https://www.youtube.com/watch?v=fJ3UpxNanBE&t=0s) 
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
