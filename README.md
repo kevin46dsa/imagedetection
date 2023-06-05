@@ -20,9 +20,9 @@ This application is uses NPM as a package manager and was created using React-Cr
 
 This is how you can run the project on your system:
 
-1. Create a clone of the RentPipe Repository on your local machine
+1. Create a clone of the imagedetection Repository on your local machine
    ```sh
-   git clone https://github.com/kevin46dsa/RentPipe
+   git clone https://github.com/kevin46dsa/imagedetection
    ```
 2. Install NPM packages
    ```sh
@@ -80,7 +80,7 @@ You can contact me at: [Kevin Dsa](https://github.com/kevin46dsa)
   </a>
 </div>
 
-Project Link: [https://github.com/kevin46dsa/RentPipe](https://github.com/kevin46dsa/RentPipe)
+Project Link: [https://github.com/kevin46dsa/imagedetection](https://github.com/kevin46dsa/imagedetection)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
