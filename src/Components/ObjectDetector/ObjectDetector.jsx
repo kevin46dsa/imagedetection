@@ -1,6 +1,6 @@
 // Import dependencies
-import React, { useRef, useState, useEffect, useCallback } from "react";
-import * as tf from "@tensorflow/tfjs";
+import React, { useRef, useState, useEffect} from "react";
+//import * as tf from "@tensorflow/tfjs";
 import * as cocossd from "@tensorflow-models/coco-ssd";
 import Webcam from "react-webcam";
 
@@ -70,7 +70,7 @@ const stopCam = () => {
     stopCam()
     setImgSrc(imageSrc);
     console.log(imageSrc)
-    const net = await cocossd.load();
+    //const net = await cocossd.load();
    // const img = document.getElementById('img');
     // Set canvas height and width
     //canvasRef.current.width = videoWidth;
