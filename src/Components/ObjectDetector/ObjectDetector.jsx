@@ -93,7 +93,7 @@ const stopCam = () => {
     facingMode: "user"
   };
 
-  useEffect(()=>{runCoco()},[runCoco]);
+  useEffect(()=>{runCoco()},[]);
 
   return (
     <div className="App">
